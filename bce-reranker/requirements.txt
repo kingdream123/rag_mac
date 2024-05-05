@@ -1,0 +1,6 @@
+fastapi==0.110.1
+uvicorn==0.29.0
+BCEmbedding==0.1.4
+sentence-transformers==2.6.1
+pydantic==2.7.0
+numpy==1.26.4
